@@ -1,0 +1,7 @@
+﻿  コード生成しています。
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\koryo\source\repos\WorldPhotographer_-\stage_select.cpp(579): warning C4715: 'GetSelectStageSelect': 値を返さないコントロール パスがあります。
+C:\Users\koryo\source\repos\WorldPhotographer_-\io_ex.cpp(140): warning C4715: 'IsButton': 値を返さないコントロール パスがあります。
+  All 931 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  sample.vcxproj -> C:\Users\koryo\source\repos\WorldPhotographer_-\x64\Release\sample.exe
