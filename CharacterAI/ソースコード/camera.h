@@ -1,0 +1,21 @@
+#pragma once
+#include "gameObject.h"
+class Camera : public GameObject
+{
+private:
+
+	bool m_isView;
+
+	D3DXVECTOR3 m_Target{};
+	D3DXMATRIX m_ViewMatrix{};
+
+public:
+	void Init();
+	void Update();
+	void Draw();
+
+	void SetFPSView();
+	void SetTPSView();
+
+	D3DXMATRIX GetViewMatrix() { return m_ViewMatrix; }
+};

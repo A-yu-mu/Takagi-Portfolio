@@ -1,0 +1,50 @@
+﻿  pch.cpp
+  animationModel.cpp
+  audio.cpp
+  box.cpp
+  camera.cpp
+  child.cpp
+  cylinder.cpp
+  death.cpp
+  distance.cpp
+  enemy.cpp
+  enemyA.cpp
+  enemyAState.cpp
+  enemyB.cpp
+  explosion.cpp
+  fade.cpp
+  field.cpp
+  game.cpp
+  game01.cpp
+  game02.cpp
+  gameOver.cpp
+  gameOverLogo.cpp
+C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\enemyB.cpp(426,25): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\enemyA.cpp(22,7): warning C4101: 'line': ローカル変数は 1 度も使われていません。
+C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\enemyA.cpp(460,25): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\enemyA.cpp(502,25): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  goal.cpp
+  input.cpp
+  main.cpp
+  manager.cpp
+  meshField.cpp
+  model.cpp
+  player.cpp
+C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\meshField.cpp(233,24): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\meshField.cpp(234,25): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  polygon2D.cpp
+  renderer.cpp
+C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\game.cpp(213,32): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+  result.cpp
+  ResultLogo.cpp
+  rock.cpp
+C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\game01.cpp(164,32): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+  score.cpp
+  select.cpp
+  shadow.cpp
+C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\game02.cpp(169,32): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+  sky.cpp
+  sprite.cpp
+  title.cpp
+  titleLogo.cpp
+  GM31_0418.vcxproj -> C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\x64\Debug\GM31_0418.exe

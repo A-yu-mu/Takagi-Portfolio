@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\x64\Release\GM31_0418.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\shader\unlitTexturePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\shader\unlitTextureVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\shader\vertexLightingPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\takag\OneDrive\デスクトップ\3nen\GM\000_就職作品プレゼンテーション_資料\GM31_20230704_ - コピー\shader\vertexLightingVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
